@@ -34,7 +34,7 @@ the commit logs.
 
 This assignment requires a programmer to implement and test the methods in a
 `DoublyLinkedList` More details about the purpose and implementation of the
-`DoublyLinkedList` are available in Section 3.2 of the textbook. Also, you can
+`DoublyLinkedList` are available in Section 3.4 of the textbook. Also, you can
 learn more about iterative algorithms by reviewing Section 1.5.2. Please note
 that this assignment will also require you to read and use Java classes that
 contain a test suite. Specifically, the programmer is responsible for learning
