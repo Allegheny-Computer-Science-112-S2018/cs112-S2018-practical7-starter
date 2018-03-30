@@ -163,7 +163,7 @@ if [ "$CHECK" = true ]; then
                                      --checkfiles DoublyLinkedList.java --fragments "public static void main" --fragmentcounts 1
   determine_exit_code $?
   # --> GatorGrader CHECK: the repository contains at least three beyond current commit count (must update in starter)
-  python3 gatorgrader/gatorgrader.py --nowelcome --commits 3
+  python3 gatorgrader/gatorgrader.py --nowelcome --commits 15
   determine_exit_code $?
  echo ""
   printf "%s\n" "${blu}... Finished checking with GatorGrader${end}"
