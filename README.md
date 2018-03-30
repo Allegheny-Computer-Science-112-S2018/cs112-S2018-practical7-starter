@@ -138,51 +138,11 @@ understand their strategy. In particular, it is critically important that you
 study and understand every test case in `TestSinglyLinkedList`.
 
 ```
-Starting a campaign of experiments with toString ...
-  Running round 0 with input size 10
-  Running round 1 with input size 20
-  Running round 2 with input size 40
-  Running round 3 with input size 80
-  Running round 4 with input size 160
-  Running round 5 with input size 320
-  Running round 6 with input size 640
-  Running round 7 with input size 1280
-  Running round 8 with input size 2560
-  Running round 9 with input size 5120
-  Running round 10 with input size 10240
-  Running round 11 with input size 20480
-  Running round 12 with input size 40960
-  Running round 13 with input size 81920
-  Running round 14 with input size 163840
-  Running round 15 with input size 327680
-  Running round 16 with input size 655360
-  Running round 17 with input size 1310720
-  Running round 18 with input size 2621440
-  Running round 19 with input size 5242880
-... Finishing a campaign of experiments with toString
+DoublyLinkedList Before removeLast:
+(0, 1, 2, 3, 4, 5, 6, 7, 8, 9)
 
-Results of an experiment campaign with toString
-Size (#)        Timing (ms)     Ratio (#)
-10              0               0
-20              0               0
-40              0               0
-80              0               0
-160             1               0
-320             0               0
-640             0               0
-1280            1               0
-2560            1               1
-5120            3               3
-10240           16              5
-20480           5               0
-40960           4               1
-81920           18              5
-163840          10              1
-327680          19              2
-655360          524             28
-1310720         289             1
-2621440         985             3
-5242880         1728            2
+DoublyLinkedList After removeLast:
+(0, 1, 2, 3, 4, 5, 6, 7, 8)
 ```
 
 ## Checking
