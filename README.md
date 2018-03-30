@@ -129,13 +129,13 @@ typing `cd ..` and then continuing your work.
 Typing the command `gradle run` in the terminal window produces the following
 output for the instructor's version of `labeight.experiment.Experiment`.
 Critically, the timing values and order of growth ratios may be different when
-you run the experiment on your own computer. It is also likely that you will see
-some atypical order-of-growth ratios. Why is that the case? Finally, please
+you run the experiment on your own computer. It is also likely that you will
+see some atypical order-of-growth ratios. Why is that the case? Finally, please
 note that this laboratory assignment invites you to run a comprehensive JUnit
-test suite of two Java classes in different packages. While this test suite
-does not produce any output, you should carefully inspect its tests so that you
-understand their strategy. In particular, it is critically important that you
-study and understand every test case in `TestSinglyLinkedList`.
+test suite for the `DoublyLinkedList`. While this test suite does not produce
+any output, you should carefully inspect its tests so that you understand their
+strategy. In particular, it is critically important that you study and
+understand the purpose and behavior every test case in `TestDoublyLinkedList`.
 
 ```
 DoublyLinkedList Before removeLast:
