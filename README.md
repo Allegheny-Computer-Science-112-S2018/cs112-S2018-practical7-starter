@@ -23,7 +23,7 @@ PROBLEMS?
 # cs112-S2018-practical7-starter
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
-repository contains the starter for Laboratory 8 in Computer Science 112. Since
+repository contains the starter for Practical 7 in Computer Science 112. Since
 the Travis builds for this repository will initially fail (as evidenced by a
 red &#x2717; appearing in the commit logs instead of a green &#x2714;), the
 programmer is responsible for completing all of the steps needed to satisfy the
@@ -47,11 +47,11 @@ Style Guide](https://google.github.io/styleguide/javaguide.html).
 The source code in the submitted Java source code files must also pass
 additional tests set by the [GatorGrader
 tool](https://github.com/gkapfham/gatorgrader). For instance, GatorGrader will
-check to ensure that `DoublyLinkedList` has `println` statements
-that can produce the output from running the `removeLast` method. GatorGrader
-will also run a JUnit test suite that will perform many checks on your
-implementation of the Java classes. More details about the GatorGrader checks
-are included later in this document and in the assignment sheet.
+check to ensure that `DoublyLinkedList` has `println` statements that can
+produce the output from running the `removeLast` method. GatorGrader will also
+run a JUnit test suite that will perform many checks on your implementation of
+the `DoublyLinkedList`. More details about the GatorGrader checks are included
+later in this document and in the assignment sheet.
 
 When you use the `git commit` command to transfer your source code to your
 GitHub repository, [Travis CI](https://travis-ci.com/) will initialize a build
@@ -81,12 +81,10 @@ guides will help you to understand how to use both [GitHub](http://github.com) a
 [GitHub Classroom](https://classroom.github.com/).
 
 To do well on this assignment, you should also read Section 1.5.2 to learn more
-about iteration constructs. You should further review Sections 4.1 to 4.3,
-focusing on the content that explains the steps of both an analytical and an
-empirical evaluation of an algorithm. Please read all of the content and study
-all of the technical diagrams and source code segments in Section 3.2. Finally,
-please see the course instructor or one of the teaching assistants or tutors if
-you have questions about any of these reading assignments.
+about iteration constructs. Please read all of the content and study all of the
+technical diagrams and source code segments in Section 3.2. Finally, please see
+the course instructor or one of the teaching assistants or tutors if you have
+questions about any of these reading assignments.
 
 ## Commands
 
@@ -250,7 +248,7 @@ developed for the following software and versions:
 ## Problems
 
 If you have found a problem with this assignment's provided source code, then
-you can go to the [Computer Science 112 Lab 8
+you can go to the [Computer Science 112 Practical 7
 Starter](https://github.com/Allegheny-Computer-Science-112-S2018/cs112-S2018-practical7-starter)
 repository and create an issue by clicking the "Issues" tab and then clicking
 the green "New Issue" button. If you have found a problem with the [GatorGrader
