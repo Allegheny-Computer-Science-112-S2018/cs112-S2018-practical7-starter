@@ -20,7 +20,7 @@ PROBLEMS?
 
 -->
 
-# cs112-S2018-lab8-starter
+# cs112-S2018-practical7-starter
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
 repository contains the starter for Laboratory 8 in Computer Science 112. Since
@@ -208,7 +208,7 @@ you would like to receive these updates, then you can type this command in the
 main directory for this assignment:
 
 ```
-./gatorgrader.sh --update git@github.com:Allegheny-Computer-Science-112-S2018/cs112-S2018-lab8-starter.git
+./gatorgrader.sh --update git@github.com:Allegheny-Computer-Science-112-S2018/cs112-S2018-practical7-starter.git
 ```
 
 You should only need to type this command once; typing the command additional
@@ -251,7 +251,7 @@ developed for the following software and versions:
 
 If you have found a problem with this assignment's provided source code, then
 you can go to the [Computer Science 112 Lab 8
-Starter](https://github.com/Allegheny-Computer-Science-112-S2018/cs112-S2018-lab8-starter)
+Starter](https://github.com/Allegheny-Computer-Science-112-S2018/cs112-S2018-practical7-starter)
 repository and create an issue by clicking the "Issues" tab and then clicking
 the green "New Issue" button. If you have found a problem with the [GatorGrader
 tool](https://github.com/gkapfham/gatorgrader) and the way that it checks you
