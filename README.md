@@ -20,29 +20,21 @@ PROBLEMS?
 
 -->
 
-# cs112-S2018-lab8-solution
+# cs112-S2018-lab8-starter
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
-repository contains the solution for Laboratory 8 in Computer Science 112.
-
-<!---
-
- Since the Travis builds for this repository will initially fail (as evidenced by
- a red &#x2717; appearing in the commit logs instead of a green &#x2714;), the
- programmer is responsible for completing all of the steps needed to satisfy the
- requirements for the assignment, thus causing a &#x2714; to instead appear in
- the commit logs.
-
---->
+repository contains the starter for Laboratory 8 in Computer Science 112. Since
+the Travis builds for this repository will initially fail (as evidenced by a
+red &#x2717; appearing in the commit logs instead of a green &#x2714;), the
+programmer is responsible for completing all of the steps needed to satisfy the
+requirements for the assignment, thus causing a &#x2714; to instead appear in
+the commit logs.
 
 ## Introduction
 
-This assignment requires a programmer to implement and test a benchmarking
-framework that supports the empirical evaluation of the `SinglyLinkedList`'s
-method that produces a textual representation of its contained data. More
-details about the purpose and implementation of the `SinglyLinkedList` are
-available in Section 3.2 of the textbook. You can also learn about experimental
-studies by reviewing the content in Sections 4.1 through 4.3. Also, you can
+This assignment requires a programmer to implement and test the methods in a
+`DoublyLinkedList` More details about the purpose and implementation of the
+`DoublyLinkedList` are available in Section 3.2 of the textbook. Also, you can
 learn more about iterative algorithms by reviewing Section 1.5.2. Please note
 that this assignment will also require you to read and use Java classes that
 contain a test suite. Specifically, the programmer is responsible for learning
@@ -52,23 +44,11 @@ explained in Section 1.9. As verified by
 of the Java classes must adhere to all of the requirements in the [Google Java
 Style Guide](https://google.github.io/styleguide/javaguide.html).
 
-The programmer is also responsible for writing a reflection, stored in the file
-`writing/reflection.md`, that responds to the questions in the assignment sheet
-and explains the challenges that you faced and the solutions you developed.
-Please note that this is a Markdown file that must adhere to the standards
-described in the [Markdown Syntax
-Guide](https://guides.github.com/features/mastering-markdown/). Remember, you
-can preview the contents of a comitted Markdown file by clicking on the name of
-the file in your GitHub repository. Finally, don't forget that your
-`writing/reflection.md` file should adhere to the Markdown standards established
-by the [Markdown linting tool](https://github.com/markdownlint/markdownlint) and
-the writing standards set by the [Proselint tool](http://proselint.com/).
-
 The source code in the submitted Java source code files must also pass
 additional tests set by the [GatorGrader
 tool](https://github.com/gkapfham/gatorgrader). For instance, GatorGrader will
-check to ensure that `Experiment` and `RunCampaign` have `println` statements
-that can produce the output from running a campaign of experiments. GatorGrader
+check to ensure that `DoublyLinkedList` has `println` statements
+that can produce the output from running the `removeLast` method. GatorGrader
 will also run a JUnit test suite that will perform many checks on your
 implementation of the Java classes. More details about the GatorGrader checks
 are included later in this document and in the assignment sheet.
