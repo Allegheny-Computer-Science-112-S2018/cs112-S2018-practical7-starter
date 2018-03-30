@@ -80,11 +80,12 @@ Projects on GitHub](https://guides.github.com/features/wikis/). Each of these
 guides will help you to understand how to use both [GitHub](http://github.com) and
 [GitHub Classroom](https://classroom.github.com/).
 
-To do well on this assignment, you should also read Section 1.5.2 to learn more
-about iteration constructs. Please read all of the content and study all of the
-technical diagrams and source code segments in Section 3.2. Finally, please see
-the course instructor or one of the teaching assistants or tutors if you have
-questions about any of these reading assignments.
+To do well on this assignment, you should also read Section 1.5.2 to learn
+more about iteration constructs. Please read all of the content and study
+all of the technical diagrams and source code segments in Section 3.2
+through 3.4. Finally, please see the course instructor or one of the
+teaching assistants or tutors if you have questions about any of these
+reading assignments.
 
 ## Commands
 
