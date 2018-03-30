@@ -150,13 +150,10 @@ DoublyLinkedList After removeLast:
 In addition to making the checks that are mentioned in the introduction to this
 document, your final submission must meet the following requirements.
 
-- `Experiment.java` contains four `println`s to produce the experiment's output.
-- `Experiment.java` declares two methods with `public static void`.
-- `RunCampaign.java` contains three `println`s to produce the experiment's output.
+- `DoublyLinkedList.java` contains three `println`s to produce the program's output.
+- `DoublyLinkedList.java` declares a method method written as `public static void main`.
 - All of the Java classes have methods that pass the provided JUnit test suite.
-- Contains a total of one paragraph of writing for each of the reflection questions.
-- The technical writing contains a fenced code block for your experimental data.
-- Consists of at least five commits beyond the commit number when starting the
+- Consists of at least three commits beyond the commit number when starting the
   assignment.
 
 ## Updates
