@@ -114,9 +114,9 @@ if [ "$CHECK" = true ]; then
   printf "%s\n" "${red}Checking the assignment with Gradle!${end}"
   echo ""
   printf "%s\n" "${blu}Starting to run the Gradle checks...${end}"
-  /usr/bin/gradle clean check
+  gradle clean check
   determine_exit_code $?
-  /usr/bin/gradle build
+  gradle build
   determine_exit_code $?
   echo ""
   printf "%s\n" "${blu}...Finished running the Gradle checks${end}"
