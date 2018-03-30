@@ -151,8 +151,8 @@ In addition to making the checks that are mentioned in the introduction to this
 document, your final submission must meet the following requirements.
 
 - `DoublyLinkedList.java` contains three `println`s to produce the program's output.
-- `DoublyLinkedList.java` declares a method method written as `public static void main`.
-- All of the Java classes have methods that pass the provided JUnit test suite.
+- `DoublyLinkedList.java` declares a `main` method written as `public static void main`.
+- The `DoublyLinkedList` has methods that pass the provided JUnit test suite.
 - Consists of at least three commits beyond the commit number when starting the
   assignment.
 
