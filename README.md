@@ -121,7 +121,7 @@ If the course instructor publishes a new version of GatorGrader and asks you to
 access it, then you need change into the tool's directory by typing `cd
 gatorgrader`. Then, you can type the command `git pull` to download the new
 source code for the GatorGrader tool. If this command completes successfully,
-then you can return to the main directory for this laboratory assignment by
+then you can return to the main directory for this practical assignment by
 typing `cd ..` and then continuing your work.
 
 ## Output
@@ -131,7 +131,7 @@ output for the instructor's version of `labeight.experiment.Experiment`.
 Critically, the timing values and order of growth ratios may be different when
 you run the experiment on your own computer. It is also likely that you will
 see some atypical order-of-growth ratios. Why is that the case? Finally, please
-note that this laboratory assignment invites you to run a comprehensive JUnit
+note that this practical assignment invites you to run a comprehensive JUnit
 test suite for the `DoublyLinkedList`. While this test suite does not produce
 any output, you should carefully inspect its tests so that you understand their
 strategy. In particular, it is critically important that you study and
@@ -213,19 +213,19 @@ tool](https://github.com/gkapfham/gatorgrader) and the way that it checks you
 assignment, then you can follow the aforementioned steps to create an issue in
 its repository. To ensure that your issue is properly resolved, please provide
 as many details as is possible about the problem that you experienced. If you
-discover a problem with the laboratory assignment sheet, then please raise an
+discover a problem with the practical assignment sheet, then please raise an
 issue in the
 [cs112-S2018-sheets](https://github.com/Allegheny-Computer-Science-112-S2018/cs112-S2018-sheets)
 repository and mention this assignment.
 
 Students who find, and use the appropriate GitHub issue tracker to correctly
-document, a mistake in any aspect of this laboratory assignment will receive
+document, a mistake in any aspect of this practical assignment will receive
 free laptop stickers and extra credit towards their grade for it.
 
 ## Assistance
 
 If you are having trouble completing any part of this project, then please talk
-with either the course instructor or a teaching assistant during the laboratory
+with either the course instructor or a teaching assistant during the practical
 session. Alternatively, you may ask questions in the Slack team for this
 course. Finally, you can schedule a meeting during the course instructor's
 office hours.
